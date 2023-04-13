@@ -1,0 +1,23 @@
+{
+  "name": "algoritmoeuclides",
+  "version": "1.0.0",
+  "description": "calculo do m.d.c. pelo algoritmo de Euclides",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izaque459/algoritmoEuclides.git"
+  },
+  "keywords": [
+    "mdc",
+    "Euclides"
+  ],
+  "author": "Isaac Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izaque459/algoritmoEuclides/issues"
+  },
+  "homepage": "https://github.com/izaque459/algoritmoEuclides#readme"
+}
