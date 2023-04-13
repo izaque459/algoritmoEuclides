@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/izaque459/algoritmoEuclides/issues"
   },
-  "homepage": "https://github.com/izaque459/algoritmoEuclides#readme"
+  "homepage": "https://github.com/izaque459/algoritmoEuclides#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
 }
